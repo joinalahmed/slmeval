@@ -1,0 +1,151 @@
+[
+    {
+        "Company names": [
+            "Goldman Sachs"
+        ],
+        "People names": [],
+        "Specific topics": [
+            "global financial markets, rise in interest rates, market trends, inflation rates, central bank policies"
+        ],
+        "General themes": [
+            "economic forecasting, interest rate changes, market analysis, inflation monitoring, central bank policy"
+        ]
+    },
+    {
+        "Company names": [],
+        "People names": [
+            "Christine Lagarde"
+        ],
+        "Specific topics": [
+            "monetary policy",
+            "Eurozone",
+            "digital currencies",
+            "regulatory frameworks"
+        ],
+        "General themes": [
+            "financial innovation",
+            "regulation in finance"
+        ]
+    },
+    {
+        "Company names": [
+            "Tesla"
+        ],
+        "People names": [
+            "Elon Musk"
+        ],
+        "Specific topics": [
+            "Tesla's latest earnings report, record profit, electric vehicles, Asian market sales, advancements in battery technology, strategic market expansion"
+        ],
+        "General themes": [
+            "Corporate profitability, technological innovation, market strategy, economic impact of electric vehicles"
+        ]
+    },
+    {
+        "Company names": [],
+        "People names": [],
+        "Specific topics": [
+            "remote work",
+            "productivity",
+            "employee well-being",
+            "telecommuting"
+        ],
+        "General themes": [
+            "Workplace flexibility",
+            "Work-life balance",
+            "Future of work"
+        ]
+    },
+    {
+        "Company names": [
+            "Microsoft, Amazon Web Services"
+        ],
+        "People names": "",
+        "Specific topics": [
+            "Strategic alliance, cloud computing, healthcare sector, AI, machine learning, patient care, operational efficiency"
+        ],
+        "General themes": [
+            "Technology and healthcare, business collaboration"
+        ]
+    },
+    {
+        "Company names": [],
+        "People names": [],
+        "Specific topics": [
+            "trade tensions between the US and China",
+            "IMF global economic forecast",
+            "world's major economies"
+        ],
+        "General themes": [
+            "economic outlook",
+            "global trade relations"
+        ]
+    },
+    {
+        "Company names": [
+            "Apple Inc."
+        ],
+        "People names": [
+            "Tim Cook"
+        ],
+        "Specific topics": [
+            "latest iPhone model, advanced camera systems, new A15 Bionic chip, product launch event"
+        ],
+        "General themes": [
+            "technology, innovation, smartphone industry"
+        ]
+    },
+    {
+        "Company names": [],
+        "People names": [],
+        "Specific topics": [
+            "climate change",
+            "global temperatures",
+            "sea-level rise",
+            "frequency of extreme weather events"
+        ],
+        "General themes": [
+            "Environmental Impact",
+            "Future Risks",
+            "Immediate Action Needed"
+        ]
+    },
+    {
+        "Company names": [
+            "Google"
+        ],
+        "People names": [
+            "Sundar Pichai"
+        ],
+        "Specific topics": [
+            "search algorithm update",
+            "improving accuracy and relevance of search results",
+            "press briefing"
+        ],
+        "General themes": [
+            "technology",
+            "innovation"
+        ]
+    },
+    {
+        "Company names": [
+            "Amazon"
+        ],
+        "People names": [
+            "Jeff Bezos"
+        ],
+        "Specific topics": [
+            "online shopping",
+            "holiday season",
+            "sales increase",
+            "company performance",
+            "future growth strategies"
+        ],
+        "General themes": [
+            "e-commerce",
+            "retail business",
+            "corporate strategy",
+            "seasonal market trends"
+        ]
+    }
+]

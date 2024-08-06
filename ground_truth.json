@@ -1,0 +1,62 @@
+[
+    {
+        "Company names": "Goldman Sachs",
+        "People names": "None",
+        "Specific topics": "global financial markets, interest rates, major economies, market trends, inflation rates, central bank policies",
+        "General themes": "financial analysis, market predictions"
+    },
+    {
+        "Company names": "European Central Bank",
+        "People names": "Christine Lagarde",
+        "Specific topics": "keynote speech, World Economic Forum, monetary policy, Eurozone, digital currencies, regulatory frameworks",
+        "General themes": "economic policy, digital finance"
+    },
+    {
+        "Company names": "Tesla",
+        "People names": "Elon Musk",
+        "Specific topics": "earnings report, record profit, electric vehicles, Asian market, battery technology, strategic market expansion",
+        "General themes": "financial performance, technological advancement"
+    },
+    {
+        "Company names": "Harvard Business Review",
+        "People names": "None",
+        "Specific topics": "remote work, productivity, employee well-being, telecommuting, benefits and challenges",
+        "General themes": "workplace trends, employee health"
+    },
+    {
+        "Company names": "Microsoft, Amazon Web Services",
+        "People names": "None",
+        "Specific topics": "strategic alliance, cloud computing solutions, healthcare sector, AI, machine learning, patient care, operational efficiency",
+        "General themes": "technology collaboration, healthcare innovation"
+    },
+    {
+        "Company names": "International Monetary Fund (IMF)",
+        "People names": "None",
+        "Specific topics": "global economic forecast, trade tensions, US and China, slower growth, major economies",
+        "General themes": "economic outlook, international trade"
+    },
+    {
+        "Company names": "Apple Inc.",
+        "People names": "Tim Cook",
+        "Specific topics": "latest iPhone model, advanced camera systems, A15 Bionic chip, product launch event",
+        "General themes": "technology innovation, product launch"
+    },
+    {
+        "Company names": "United Nations",
+        "People names": "None",
+        "Specific topics": "climate change report, environmental impacts, rising global temperatures, sea-level rise, extreme weather events",
+        "General themes": "environmental sustainability, global warming"
+    },
+    {
+        "Company names": "Google",
+        "People names": "Sundar Pichai",
+        "Specific topics": "search algorithm update, accuracy and relevance, search results, technical improvements, press briefing",
+        "General themes": "technology enhancement, internet search"
+    },
+    {
+        "Company names": "Amazon",
+        "People names": "Jeff Bezos",
+        "Specific topics": "increase in sales, holiday season, online shopping, company performance, future growth strategies",
+        "General themes": "e-commerce trends, business growth"
+    }
+]

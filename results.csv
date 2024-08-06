@@ -1,0 +1,21 @@
+index,sentiment,zero_shot,single_shot,few_shot
+0,neutral,positive,neutral,neutral
+1,positive,neutral,positive,negative
+2,positive,neutral,positive,positive
+3,positive,neutral,positive,positive
+4,positive,positive,positive,positive
+5,positive,positive,positive,positive
+6,positive,neutral,positive,positive
+7,positive,neutral,positive,positive
+8,positive,neutral,positive,positive
+9,positive,neutral,positive,positive
+10,positive,neutral,positive,positive
+11,positive,positive,positive,positive
+12,positive,neutral,positive,positive
+13,positive,neutral,positive,positive
+14,positive,neutral,positive,positive
+15,positive,neutral,positive,positive
+16,positive,positive,positive,positive
+17,positive,neutral,positive,positive (indicating a relative increase in profit despite the increase in revenue)
+18,positive,positive,positive,positive
+19,positive,positive,positive,positive
